@@ -10,9 +10,10 @@ and open the template in the editor.
         <title></title>
     </head>
     <body>
+        <img src="quadrati.php">
         <?php
         
-        include 'quadrati.php';
+        echo "ciao";
         
         ?>
     </body>
